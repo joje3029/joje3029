@@ -54,5 +54,5 @@
 ## 📚 개인 성장 및 학습
 
 - 블로그: [https://blog.naver.com/joje3029](https://blog.naver.com/joje3029)
-- HOCO 스터디클럽에서 꾸준히 개발 지식 및 신기술 학습  
-  [스터디 노션 바로가기](https://gossamer-sort-f18.notion.site/1bfccd6c8cc58147b551d5d43e008c78) 
+- HOCO 스터디클럽에서 - 오브젝트(조영훈 저) 학습 중
+  [스터디 노션 바로가기](https://gossamer-sort-f18.notion.site/1bfccd6c8cc58147b551d5d43e008c78)
